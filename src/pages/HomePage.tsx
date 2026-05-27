@@ -393,7 +393,7 @@ export default function HomePage() {
               <Icon name="MapPin" size={14} className="text-white" />
             </div>
             <span className="font-bold text-white">СтудХостел</span>
-            <span className="text-gray-600 ml-2">— Краснодар, 2025</span>
+            <span className="text-gray-600 ml-2">— Краснодар, 2026</span>
           </div>
           <div className="text-sm text-center">Демонстрационная версия для инвесторов и партнёров</div>
           <div className="flex items-center gap-2">
